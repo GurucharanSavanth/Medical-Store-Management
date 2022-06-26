@@ -24,5 +24,3 @@ This medical store management system will provide us the gievn informations,
 - Create a Database in the MYSQL server and import the `pharmacy.sql` file in the newly created database.
 - Now in another tab go to the url : `localhost/Pharmacy-Management-System-master/PHARMACY/mainpage.php`
 - while runnig the above url the program will start and the database will be running in the XAMPP server as you can see the differences in the database live!
-
-### Code Developed by,Gurucharan Savanth, 2022
